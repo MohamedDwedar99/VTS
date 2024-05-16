@@ -1,0 +1,4 @@
+<map id="GPS_Recieve_Buffer" name="GPS_Recieve_Buffer">
+<area shape="rect" id="node1" title="GPS Recive from UART." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$_u_s_a_r_t__interface_8h.html#aec7722fc59a1ae70bc6d1c2c7ae4e320" title="Recieve data." alt="" coords="196,5,307,32"/>
+</map>

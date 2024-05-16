@@ -1,0 +1,7 @@
+<map id="GSM_AdjustData_Json" name="GSM_AdjustData_Json">
+<area shape="rect" id="node1" title="Adjust Data format to be Written In Json." alt="" coords="5,31,163,57"/>
+<area shape="rect" id="node2" href="$_u_s_a_r_t__interface_8h.html#a3f2281195ed9791e2df4420cbc33f938" title="Send String." alt="" coords="211,5,367,32"/>
+<area shape="rect" id="node4" href="$_g_s_m___program_8c.html#afa3a4589350a300cf8a03e64d6154d52" title="Wait for ok." alt="" coords="252,56,325,83"/>
+<area shape="rect" id="node3" href="$_u_s_a_r_t__program_8c.html#aef9a6a559a9152c160c5b51a3be6d9d1" title="Transmint Data." alt="" coords="415,5,525,32"/>
+<area shape="rect" id="node5" href="$_u_s_a_r_t__interface_8h.html#a103318a13e62f700175d8bcd189f9dfe" title="Recieve Data." alt="" coords="415,56,525,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="RCC_voidSysClkInt" name="RCC_voidSysClkInt">
+<area shape="rect" id="node1" title="Initialize System Clock." alt="" coords="5,143,140,169"/>
+<area shape="rect" id="node2" href="$_r_c_c__program_8c.html#a440220bcd7bf27a62adad376c557ca6f" title="Initilaize External Crystal." alt="" coords="421,16,545,43"/>
+<area shape="rect" id="node3" href="$_r_c_c__program_8c.html#ada151189423e35bfb83d2b86f11d2b81" title="Initialize Internal crystal." alt="" coords="424,67,543,93"/>
+<area shape="rect" id="node4" href="$_r_c_c__program_8c.html#a725ba92e3a5e5f24c7d3ba270a31be0a" title="Initialize PLL." alt="" coords="221,41,341,68"/>
+<area shape="rect" id="node5" href="$_r_c_c__program_8c.html#a132ae372a8dc81300e56c6d26c254fc2" title="ADC prescaller." alt="" coords="191,143,370,169"/>
+<area shape="rect" id="node6" href="$_r_c_c__program_8c.html#a830e45b2b0fd4097b68bd5b85fcf341d" title="AHP Prescaler." alt="" coords="191,193,370,220"/>
+<area shape="rect" id="node7" href="$_r_c_c__program_8c.html#aa648a10e8c21e333473108433a6290ef" title="APB1 Prescaller." alt="" coords="188,244,373,271"/>
+<area shape="rect" id="node8" href="$_r_c_c__program_8c.html#a558bbcf479e15a9dfc9159fd3608d24b" title="APB2 Prescaller." alt="" coords="188,295,373,321"/>
+</map>
