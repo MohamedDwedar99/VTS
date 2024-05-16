@@ -1,0 +1,16 @@
+../Drivers/01 MCAL/06 USART/USART_program.c:24:6:UART1_init	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:46:6:UART1_enableTX	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:53:6:UART1_enableRX	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:62:6:UART1_TXdata	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:75:5:UART1_RXdata	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:93:6:UART1_voidSendString	24	static
+../Drivers/01 MCAL/06 USART/USART_program.c:108:12:UART1_StrReceiveString	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:124:6:UART2_init	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:148:6:UART2_enableTX	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:155:6:UART2_enableRX	4	static
+../Drivers/01 MCAL/06 USART/USART_program.c:164:6:UART2_TXdata	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:177:5:UART2_RXdata	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:195:6:UART2_voidSendString	24	static
+../Drivers/01 MCAL/06 USART/USART_program.c:210:12:UART2_StrReceiveString	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:227:6:UART2_RX_CALLBACK	16	static
+../Drivers/01 MCAL/06 USART/USART_program.c:236:6:USART2_IRQHandler	8	static
